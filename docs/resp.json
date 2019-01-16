@@ -1,23 +1,18 @@
-{
-    “status”:200,
-    “reqid”:“12345”,
-    “typical”:“url”,
-    “results”:[
-        {
-            “url”:“google.com”,
-            “queries”:{
-                “getinfo”:{
-                    “a1cat”:0,
-                    “read”:81,
-                    “lcm”:“google.com”,
-                    “cats”:[
-                        {
-                            “catid”:50,
-                            “conf”:99
-                        }
-                    ]
-                }
+“results”:[
+    {
+        “url”:“google.com”,
+        “queries”:{
+            “getinfo”:{
+                “a1cat”:0,
+                “read”:81,
+                “lcm”:“google.com”,
+                “cats”:[
+                    {
+                        “catid”:50,
+                        “conf”:99
+                    }
+                ]
             }
         }
-    ]
-}
+    }
+]
